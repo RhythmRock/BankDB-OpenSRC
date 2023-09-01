@@ -17,7 +17,7 @@ The project supports fundamental functions such as tracking intra-bank transacti
 With its open-source structure, developers can customize the project to suit their needs. The goal of this project is to assist numerous organizations in taking a step towards secure and effective management of financial data.
 
 <div style="text-align:center;">
-    <img src="https://raw.githubusercontent.com/beydah/BankDB-OpenSRC/main/diagrams/Bank_Diagrams.png" alt="DB Design Wallpaper">
+    <img src="https://raw.githubusercontent.com/beydah/BankDB-OpenSRC/main/diagrams/BANK_DB_Diagram.png" alt="DB Design Wallpaper">
 </div>
 
 <div style="text-align:center;">
