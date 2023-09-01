@@ -44,22 +44,22 @@ The project welcomes contributions from developers as an open-source initiative 
 
 ### To Do List:
 
-- [x] Address Information (Addresses) and Customers:
+- [x] **Address Information (Addresses) and Customers:**
       Customer ID can be used as a foreign key in the Address Information table. Each customer may have multiple addresses.
 
-- [ ] Card Information and Card Transactions:
+- [ ] **Card Information and Card Transactions:**
       Card ID can be used as a foreign key in the Card Transactions table. This indicates which transactions are associated with a specific card.
 
-- [ ] Contact Information and Customers:
+- [ ] **Contact Information and Customers:**
       Customer ID can be used as a foreign key in the Contact Information table. A customer may have multiple sets of contact information.
 
-- [ ] Authorized Users and Customers:
+- [ ] **Authorized Users and Customers:**
       Customer ID can be used as a foreign key in the Authorized Users table. This shows which customers are authorized users on specific accounts or cards.
 
-- [ ] Risk Assessments and Customers:
+- [ ] **Risk Assessments and Customers:**
       Customer ID can be used as a foreign key in the Risk Assessments table. This allows you to record the risk profiles and assessments for each customer.
 
-- [ ] Customer Requests and Complaints and Customers:
+- [ ] **Customer Requests and Complaints and Customers:**
       Customer ID can be used as a foreign key in the Customer Requests and Complaints table. This enables you to track the requests and complaints submitted by each customer.
 
 <div style="text-align:center;">
