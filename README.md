@@ -26,7 +26,7 @@ With its open-source structure, developers can customize the project to suit the
 
 ## Download
 
-You can download the latest version of the project from the link below.
+You can download the latest version of the project from the link below:
 
 <div style="text-align:center;">
     <a href="Link EKLENECEK">
